@@ -1,15 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="1eacd899-2b2b-4438-84be-c974991747f0" name="Changes" comment="" />
+    <list default="true" id="1eacd899-2b2b-4438-84be-c974991747f0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.untitled_test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.untitled_test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.godot" beforeDir="false" afterPath="$PROJECT_DIR$/project.godot" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="DpaMonitoringSettings">
+    <option name="firstShow" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="34RtoLuGxjwckmzxlAjUicu0OTq" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -17,8 +32,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    ".NET Executable.Player.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -36,7 +60,7 @@
     <configuration name="Editor" type="RunExe" factoryName=".NET Executable">
       <option name="EXE_PATH" value="$USER_HOME$/Downloads/Godot_v4.5.1-stable_mono_win64/Godot_v4.5.1-stable_mono_win64/Godot_v4.5.1-stable_mono_win64.exe" />
       <option name="PROGRAM_PARAMETERS" value="--path &quot;./&quot; --editor" />
-      <option name="WORKING_DIRECTORY" value="C:\Users\joelc\Documents\untitled-test" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\joelc\Documents\Godot Projects\untitled-test" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="ENV_FILE_PATHS" value="" />
@@ -54,7 +78,7 @@
     <configuration name="Player" type="RunExe" factoryName=".NET Executable">
       <option name="EXE_PATH" value="$USER_HOME$/Downloads/Godot_v4.5.1-stable_mono_win64/Godot_v4.5.1-stable_mono_win64/Godot_v4.5.1-stable_mono_win64.exe" />
       <option name="PROGRAM_PARAMETERS" value="--path &quot;./&quot;" />
-      <option name="WORKING_DIRECTORY" value="C:\Users\joelc\Documents\untitled-test" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\joelc\Documents\Godot Projects\untitled-test" />
       <option name="PASS_PARENT_ENVS" value="1" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="ENV_FILE_PATHS" value="" />
@@ -78,6 +102,11 @@
       <option name="presentableId" value="Default" />
       <updated>1761188403745</updated>
       <workItem from="1761188412309" duration="255000" />
+      <workItem from="1761423341418" duration="14000" />
+      <workItem from="1763089401383" duration="176000" />
+      <workItem from="1763089636690" duration="1158000" />
+      <workItem from="1763090825986" duration="188000" />
+      <workItem from="1763091037812" duration="2832000" />
     </task>
     <servers />
   </component>
